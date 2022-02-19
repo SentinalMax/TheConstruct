@@ -2,4 +2,6 @@
 
 "You think that's air you're breathing?" - Morpheus
 
-* No changes;
+* make map bigger
+* tweak lighting
+* add guns. lots of guns.
