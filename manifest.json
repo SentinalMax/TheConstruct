@@ -1,6 +1,6 @@
 {
     "name": "The Construct",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/SentinalMax/TheConstruct",
     "description": "This is the construct. It's our loading program. We can load anything, from clothing, to equipment, weapons, training simulations. Anything we need.",
     "dependencies": [
