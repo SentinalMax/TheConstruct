@@ -10,6 +10,7 @@
 
 # UPDATES:
 
-1. fixed scaling issue
+1. added bullet/impact FX 
+2. fixed scaling issue
 
 
