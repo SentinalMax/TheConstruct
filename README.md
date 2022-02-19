@@ -8,4 +8,8 @@
 * tweak lighting
 * add guns. lots of guns.
 
+# UPDATES:
+
+1. fixed scaling issue
+
 
